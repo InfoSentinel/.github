@@ -18,7 +18,7 @@ InfoSentinel is a comprehensive and advanced OSINT (Open Source Intelligence) an
 
 At InfoSentinel, our mission is to ensure security without compromising privacy. We strive to strike the delicate balance between effective threat intelligence and safeguarding individual and organizational privacy rights.
 
-## Installation
+## Installation [Currently Unavailable]
 
 To integrate InfoSentinel into your system, follow the provided documentation and API keys for seamless implementation.
 
